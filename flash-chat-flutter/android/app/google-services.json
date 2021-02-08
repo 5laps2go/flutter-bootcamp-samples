@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597911477936",
+    "project_id": "flash-chat-6d8b9",
+    "storage_bucket": "flash-chat-6d8b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597911477936:android:75377f10d2a0f2fe0a6575",
+        "android_client_info": {
+          "package_name": "co.fivelaps2go.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597911477936-ah6plp7u8he70pebhb4n53jb8v5bfso4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRCdj8qy9T70xCEneEXQbIgU3GZvVOCrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597911477936-ah6plp7u8he70pebhb4n53jb8v5bfso4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
